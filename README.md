@@ -1,8 +1,10 @@
 # grouppyth
 
-1.ANTONY SIFUNA COM/B/01-02365/2024
-2.DENVER WALUSALA COM/B/...../2024
-3.Suleiman Muhamed  COM/B/..../2024
+### Group Members
+
+- **ANTONY SIFUNA** — COM/B/01-02365/2024
+- **DENVER WALUSALA** — COM/B/...../2024
+- **SULEIMAN MUHAMED** — COM/B/..../2024
 
 Small Python programs: a console multiplication table and a Tkinter scientific calculator.
 
