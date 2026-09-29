@@ -1,6 +1,6 @@
-# grouppyth
+# BCS 360  python
 
-### Group Members
+### Group Members  
 
 - **ANTONY SIFUNA** — COM/B/01-02365/2024
 - **DENVER WALUSALA** — COM/B/01-03766/2024
