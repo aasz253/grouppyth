@@ -38,3 +38,5 @@ python3 scientific_calc.py
 Opens a GUI window supporting arithmetic, parentheses, `sin`/`cos`/`tan`, `√`, `x²`,
 `log`, `ln`, `eˣ`, `1/x`, and `π`. Keyboard input works too: digits and operators,
 `c` to clear, `BackSpace` to delete, `Enter` to evaluate.
+
+![Scientific calculator](Screenshot%20From%202026-09-29%2007-13-45.png)
